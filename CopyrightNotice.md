@@ -9,4 +9,4 @@ hin2n是本人及zhangbz等开发者基于开源内网穿透软件[n2n](https://
 
 最后，希望广大用户使用更稳定的开源版本[hin2n APP](https://github.com/switch-iot/hin2n)。
 
-                            2020-04-21 by switch.st@gmail.com
+<div style="text-align: right"> 2020-04-21 by switch.st@gmail.com </div>
